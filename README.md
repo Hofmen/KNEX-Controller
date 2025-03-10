@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/1781224d-2fb2-485f-baeb-8e50c81ae1f4)# KNEX-Controller
 Knex Controller
 
 For my technology teacher training, I had to design and build a finished product, so I decided to level up my K'Nex building skills. I've always loved K'Nex, and I even made a remote-controlled motor before, but it wasn't very polished.
